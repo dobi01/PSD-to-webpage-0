@@ -1,4 +1,4 @@
-# PSD-to-webpage-02
+# PSD-to-webpage-0
 
-Simple landing page coded from PSD template // RWD coming soon
-https://dobi01.github.io/PSD-to-webpage-02
+First time simple landing page coded from PSD template
+// needs serious rewriting - looks good only on 17'' screen, no RWD, no Sass
